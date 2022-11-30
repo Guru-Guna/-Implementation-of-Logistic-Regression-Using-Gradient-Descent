@@ -18,8 +18,8 @@ Define a function for costFunction,cost and gradient.
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Karthikeyan.K
-RegisterNumber: 212221230046
+Developed by: Gunaseelan G
+RegisterNumber: 212221230031
 */
 import numpy as np
 import matplotlib.pyplot as plt
